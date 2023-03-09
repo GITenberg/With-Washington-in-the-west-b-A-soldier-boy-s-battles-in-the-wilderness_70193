@@ -1,0 +1,46 @@
+_repo: With-Washington-in-the-west-b-A-soldier-boy-s-battles-in-the-wilderness_70193
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Shute, A. B.
+    aliases:
+    - Shute, A. Burnham
+    - Shute, Augustus Burnham
+    birthdate: 1851
+    deathdate: 1906
+    gutenberg_agent_id: '26350'
+    url: http://www.gutenberg.org/2009/agents/26350
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    - Bonehill, Captain Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edward_Stratemeyer
+    - https://www.gutenberg.org/ebooks/author/55530
+description: ''
+gutenberg_issued: '2023-03-03'
+identifiers:
+  gutenberg: '70193'
+language: en
+pgterms:marc905: 20220622092107stratemeye
+pgterms:marc906: '1901'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bLothrop, Lee & Shepard Co., $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'With Washington in the west : $b A soldier boy''s battles in the wilderness'
+url: http://www.gutenberg.org/ebooks/70193
